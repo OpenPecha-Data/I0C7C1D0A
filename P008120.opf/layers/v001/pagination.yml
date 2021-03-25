@@ -2,59 +2,59 @@ id: 5c09eb74e5e6458b8e0ce738c3c192d4
 annotation_type: pagination
 revision: '00001'
 annotations:
-- id: 30c377afa44e4448b8486f490038895a
-  span:
-    start: 0
-    end: 776
-  page_index: 1a
-  page_info: null
-  reference: '55700001'
-- id: 5bf49b77995840a8bbafb5a5b53cc56b
-  span:
-    start: 781
-    end: 1238
-  page_index: 1b
-  page_info: null
-  reference: '55700002'
-- id: 3d419bfcf48549cb8567e93b0ddb6a94
-  span:
-    start: 1243
-    end: 2198
-  page_index: 11a
-  page_info: null
-  reference: '55700021'
-- id: 7d3dc6b69d7b4499bded9ce4da9fcffa
-  span:
-    start: 2203
-    end: 3151
-  page_index: 114a
-  page_info: null
-  reference: '55700227'
-- id: 8bfb4df066624a0ebbe552bab7a62f6d
-  span:
-    start: 3156
-    end: 4096
-  page_index: 148a
-  page_info: null
-  reference: '55700295'
-- id: 5978138218f1452b91c767fa218ba911
-  span:
-    start: 4101
-    end: 5093
-  page_index: 148b
-  page_info: null
-  reference: '55700296'
-- id: 157e9d6e17a84146a17aa37bd1e6469f
-  span:
-    start: 5098
-    end: 6087
-  page_index: 158a
-  page_info: null
-  reference: '55700315'
-- id: fa34c71f000e4440b9501cd3604de448
-  span:
-    start: 6092
-    end: 6961
-  page_index: 286b
-  page_info: null
-  reference: '55700572'
+  30c377afa44e4448b8486f490038895a:
+    page_index: 1a
+    page_info: null
+    reference: '55700001'
+    span:
+      start: 0
+      end: 776
+  5bf49b77995840a8bbafb5a5b53cc56b:
+    page_index: 1b
+    page_info: null
+    reference: '55700002'
+    span:
+      start: 781
+      end: 1238
+  3d419bfcf48549cb8567e93b0ddb6a94:
+    page_index: 11a
+    page_info: null
+    reference: '55700021'
+    span:
+      start: 1243
+      end: 2198
+  7d3dc6b69d7b4499bded9ce4da9fcffa:
+    page_index: 114a
+    page_info: null
+    reference: '55700227'
+    span:
+      start: 2203
+      end: 3151
+  8bfb4df066624a0ebbe552bab7a62f6d:
+    page_index: 148a
+    page_info: null
+    reference: '55700295'
+    span:
+      start: 3156
+      end: 4096
+  5978138218f1452b91c767fa218ba911:
+    page_index: 148b
+    page_info: null
+    reference: '55700296'
+    span:
+      start: 4101
+      end: 5093
+  157e9d6e17a84146a17aa37bd1e6469f:
+    page_index: 158a
+    page_info: null
+    reference: '55700315'
+    span:
+      start: 5098
+      end: 6087
+  fa34c71f000e4440b9501cd3604de448:
+    page_index: 286b
+    page_info: null
+    reference: '55700572'
+    span:
+      start: 6092
+      end: 6961
