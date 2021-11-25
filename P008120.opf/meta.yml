@@ -1,5 +1,7 @@
 id: P008120
 initial_creation_type: ocr
+created_at: 27/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W29686
   title: མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་བཤད་སྦྱར་དཀོན་མཆོག་འབྱུང་གནས
@@ -17,10 +19,3 @@ source_metadata:
       volume_number: 2
       total_pages: 988
       base_file: v002.txt
-ebook_metadata:
-  title: མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་བཤད་སྦྱར་དཀོན་མཆོག་འབྱུང་གནས
-  author: ''
-  sku: P008120
-  cover: cover.jpg
-  layers:
-  - pagination
