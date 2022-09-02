@@ -1,33 +1,62 @@
 id: I0C7C1D0A
+legacy_id: P008120
+ocr_import_info:
+  bdrc_scan_id: W29686
+  source: bdrc
+  ocr_info:
+    timestamp: '2020-03-27T00:43:36'
+    imagesfolder: images
+  batch_id: batch001
+  software_id: vision
+  expected_default_language: bo
+  op_import_options: {}
+  op_import_version: 1.0.0
+default_language: bo
 source: https://library.bdrc.io
 source_file: null
 initial_creation_type: ocr
-imported: '2020-03-27T00:50:09+00:00'
-last_modified: '2022-06-09T04:38:36.380937+00:00'
-parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+imported: '2022-09-02T14:17:23.638324+00:00'
+last_modified: 2022-09-02 22:19:29.247301
+parser: https://github.com/OpenPecha/Toolkit/blob/7f57883d84bc10351527a49ee6ce970ace404e50/openpecha/formatters/google_ocr.py
 source_metadata:
-  id: bdr:W29686
-  title: མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་བཤད་སྦྱར་དཀོན་མཆོག་འབྱུང་གནས
-  author: ''
+  id: http://purl.bdrc.io/resource/W29686
+  status: http://purl.bdrc.io/admindata/StatusReleased
   access: http://purl.bdrc.io/admindata/AccessOpen
-  restrictedInChina: false
-  base:
-    9AEE:
-      image_group_id: I5570
-      title: ''
+  reproduction_of: http://purl.bdrc.io/resource/MW29686
+  copyright_status: http://purl.bdrc.io/resource/CopyrightPublicDomain
+  title: མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་བཤད་སྦྱར་དཀོན་མཆོག་འབྱུང་གནས།
+  author: སློབ་དཔོན་ཐེག་མཆོག
+statistics:
+  ocr_word_mean_confidence_index: 0.8425382329766414
+  ocr_word_median_confidence_index: 0.9200000166893005
+quality: null
+bases:
+  I5570:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I5570
       total_pages: 676
-      order: 1
-      base_file: 9AEE.txt
-    44A3:
-      image_group_id: I5571
-      title: ''
+      volume_number: 1
+      volume_pages_bdrc_intro: 2
+    order: 1
+    base_file: I5570.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9700000286102295
+      ocr_word_mean_confidence_index: 0.8927132921306403
+    legacy_id: v001
+  I5571:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I5571
       total_pages: 988
-      order: 2
-      base_file: 44A3.txt
-statistics: {}
-quality: {}
+      volume_number: 2
+      volume_pages_bdrc_intro: 2
+    order: 2
+    base_file: I5571.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9200000166893005
+      ocr_word_mean_confidence_index: 0.8419619991224362
+    legacy_id: v002
 copyright:
-  status: Unknown
-  notice: ''
-  info_url: null
-license: null
+  status: Public domain
+  notice: Public domain
+  info_url: https://creativecommons.org/publicdomain/mark/1.0/
+license: CC0
